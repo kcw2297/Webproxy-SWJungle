@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "features.h": "c",
+        "csapp.h": "c"
+    }
+}
